@@ -1,0 +1,18 @@
+[
+    "WPFInstallfirefox",
+    "WPFTweaksConsumerFeatures",
+    "WPFTweaksDiskCleanup",
+    "WPFTweaksEndTaskOnTaskbar",
+    "WPFTweaksHiber",
+    "WPFTweaksLocation",
+    "WPFTweaksDisableStoreSearch",
+    "WPFTweaksPowershell7Tele",
+    "WPFTweaksRestorePoint",
+    "WPFTweaksServices",
+    "WPFTweaksTelemetry",
+    "WPFTweaksDeleteTempFiles",
+    "WPFTweaksDeBloat",
+    "WPFTweaksBlockAdobeNet",
+    "WPFTweaksRemoveEdge",
+    "WPFTweaksWindowsAI"
+]
