@@ -5,7 +5,7 @@ A Python script to install the essentials on a new Windows installation. Yes, it
 Download Python, it probably isnt installed: https://python.org/
 Run with: python main.py
 
-In CTT Tool, click the Settings icon (gear), and import the .json file, which can be found [here.](https://github.com/cocoa-lol/winsetup/blob/main/src/ctt.json)
+In CTT Tool, click the Settings icon (gear), and import the .json file, which can be found [here.](https://github.com/cocoa-lol/winsetup/blob/main/src/ctt.json) (Please review the options in that file)
 
 # Features
 Installs dependencies automatically
